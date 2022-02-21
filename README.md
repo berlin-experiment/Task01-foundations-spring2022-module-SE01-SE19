@@ -1,2 +1,2 @@
-# foundations-spring2022-se
-CODE University Foundations: SE_01 + SE_19
+# foundations-spring2022-se Task 1
+CODE University Foundations: SE_01 Week 1 Task
